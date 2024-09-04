@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://yhugoslav.github.io/sitemap/sitemap.txt
